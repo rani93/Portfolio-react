@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import './footer.css';
 import footer_logo from '../../asserts/icon.png'
 const Footer =()=>{
